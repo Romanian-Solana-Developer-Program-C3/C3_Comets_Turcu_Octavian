@@ -1,0 +1,27 @@
+{
+  "name": "c3_comets_turcu_octavian",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romanian-Solana-Developer-Program-C3/C3_Comets_Turcu_Octavian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romanian-Solana-Developer-Program-C3/C3_Comets_Turcu_Octavian/issues"
+  },
+  "homepage": "https://github.com/Romanian-Solana-Developer-Program-C3/C3_Comets_Turcu_Octavian#readme",
+  "description": "",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.0",
+    "@solana-developers/helpers": "2.0.0",
+    "@solana/web3.js": "^1.98.0",
+    "anchor": "^1.4.1",
+    "dotenv": "^16.4.7",
+    "esrun": "^3.2.26"
+  }
+}
